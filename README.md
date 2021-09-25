@@ -1,5 +1,8 @@
 ### Hi there 👋:blush:
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+
 <!--
 **ManulaUluwatta/ManulaUluwatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
